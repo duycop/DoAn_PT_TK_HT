@@ -18,3 +18,5 @@ STT	MASV	Họ	Tên	Ngày sinh	Lớp	Điện thoại	Tên đề tài	Các chức 
 10.	K215480106061	Vũ Văn	Ngọc	2003-10-31	K57KMT.01	0368093916	QUẢN LÝ NHÀ HÀNG	Quản lý về ( nguyên vật liệu đầu vào . đầu ra thành phẩm ...) quản lý các đơn đặt bàn và giao hàng thanh toán ...
 
 ![image](https://github.com/user-attachments/assets/ebba8ea5-0587-478c-af63-3e7b2511ddcc)
+
+# CÁCH LÀM BÀI # [Theo format này](cach_lam.txt)
