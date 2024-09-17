@@ -1,10 +1,8 @@
-# DoAn_PT_TK_HT
+# ĐỒ ÁN : PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG
 
-## CÁCH LÀM BÀI ## [Theo format này](cach_lam.txt)
+## CÁCH LÀM BÀI: [Theo format này](cach_lam.txt)
 
-## Danh sách sv ##
-
-** ĐỒ ÁN : PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG **
+## Danh sách sv thực hiện:
 
 STT	MASV	Họ	Tên	Ngày sinh	Lớp	Điện thoại	Tên đề tài	Các chức năng đăng ký làm
 
