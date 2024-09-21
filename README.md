@@ -1,6 +1,6 @@
 # ĐỒ ÁN : PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG
 
-## CÁCH LÀM BÀI: [Theo format này](cach_lam.txt)
+## CÁCH LÀM BÀI: [Theo format này](cach_lam.md)
 
 ## Danh sách sv thực hiện:
 
