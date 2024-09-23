@@ -2,7 +2,15 @@
 
 ## CÁCH LÀM BÀI: [Theo format này](cach_lam.md)
 
-## BÁO CÁO TIẾN ĐỘ: MỖI TUẦN ÍT NHẤT 1 LẦN, SV LÀM TRÊN CÁC PHẦN MỀM LIÊN QUAN, GHI NHẬT KÝ VÀO FILE WORD (CÓ CHỤP ẢNH MÀN HÌNH), XUẤT PDF, GỬI FILE PDF VÀO NHÓM ZALO.
+## BÁO CÁO TIẾN ĐỘ: 
+
+- Mỗi tuần ít nhất 1 lần
+
+- sv làm trên các phần mềm liên quan
+
+- ghi nhật ký vào file word (có chụp ảnh màn hình), xuất pdf
+
+- gửi file pdf vào nhóm zalo.
 
 ## Danh sách sv thực hiện:
 
