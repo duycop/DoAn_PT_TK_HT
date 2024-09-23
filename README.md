@@ -2,6 +2,8 @@
 
 ## CÁCH LÀM BÀI: [Theo format này](cach_lam.md)
 
+## BÁO CÁO TIẾN ĐỘ: MỖI TUẦN ÍT NHẤT 1 LẦN, SV LÀM TRÊN CÁC PHẦN MỀM LIÊN QUAN, GHI NHẬT KÝ VÀO FILE WORD (CÓ CHỤP ẢNH MÀN HÌNH), XUẤT PDF, GỬI FILE PDF VÀO NHÓM ZALO.
+
 ## Danh sách sv thực hiện:
 
 STT	MASV	Họ	Tên	Ngày sinh	Lớp	Điện thoại	Tên đề tài	Các chức năng đăng ký làm
