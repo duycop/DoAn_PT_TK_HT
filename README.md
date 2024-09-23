@@ -5,7 +5,7 @@
 ## BÁO CÁO TIẾN ĐỘ: 
 
 - Mỗi sv làm 1 cái Repository trên Github, để private, chia sẻ với thầy, rồi làm trên máy cá nhân, cái gì liên quan hoặc có update thì push lên github
-- 
+
 - Mỗi tuần ít nhất 1 lần phải push sự thay đổi lên github
 
 - sv làm trên các phần mềm liên quan
